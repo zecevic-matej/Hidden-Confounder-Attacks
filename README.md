@@ -1,1 +1,5 @@
-# Intriguing-Parameters-of-Structural-Causal-Models
+# Intriguing Parameters of Structural Causal Models
+
+In recent years there has been a lot of focus on adversarial attacks especially in deep neural networks. In this work we argue that such adversarial attacks are more general in nature and can easily affect differentiable perturbed optimizers. We further argue that such attacks can be determined by the hidden confounders in a domain thus drawing a novel connection between such attacks and causality. Establishing this causal perspective is characterized by the influence of the structural causal model's data generating process on the subsequent optimization thereby exhibiting intriguing parameters of the former. We reveal the existence of such parameters for 3 combinatorial optimization problems, namely linear assignment, shortest path problem and a real world problem of energy systems. Our empirical examination also unveils worrisome consequences of these attacks on differentiable perturbed optimizers thereby highlighting the criticality of our findings.
+
+The provided code allows for the reproduction of our three experimental examples presented in the paper, plus offers the generals methods that can be extended or simply be used for custom scenarios. 
