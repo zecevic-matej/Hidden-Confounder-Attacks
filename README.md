@@ -1,5 +1,11 @@
-# Intriguing Parameters of Structural Causal Models
+### Intriguing Parameters of Structural Causal Models
 
-In recent years there has been a lot of focus on adversarial attacks especially in deep neural networks. In this work we argue that such adversarial attacks are more general in nature and can easily affect differentiable perturbed optimizers. We further argue that such attacks can be determined by the hidden confounders in a domain thus drawing a novel connection between such attacks and causality. Establishing this causal perspective is characterized by the influence of the structural causal model's data generating process on the subsequent optimization thereby exhibiting intriguing parameters of the former. We reveal the existence of such parameters for 3 combinatorial optimization problems, namely linear assignment, shortest path problem and a real world problem of energy systems. Our empirical examination also unveils worrisome consequences of these attacks on differentiable perturbed optimizers thereby highlighting the criticality of our findings.
+[Matej Zečević](https://ml-research.github.io/people/mzecevic/), [Devendra Singh Dhami](https://ml-research.github.io/people/ddhami/), [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html).
 
-The provided code allows for the reproduction of our three experimental examples presented in the paper, plus offers the generals methods that can be extended or simply be used for custom scenarios. 
+Official code repository to the corresponding [paper](https://arxiv.org/abs/2105.12697).
+
+Abstract:
+
+> In recent years there has been a lot of focus on adversarial attacks, especially on deep neural networks. Here, we argue that they are more general in nature and can easily affect a larger class of models, e.g., any differentiable perturbed optimizers. We further show that such attacks can be determined by the hidden confounders in a domain, thus drawing a novel connection between such attacks and causality. Establishing this causal perspective is characterized by the influence of the structural causal model's data generating process on the subsequent optimization thereby exhibiting intriguing parameters of the former. We reveal the existence of such parameters for three combinatorial optimization problems, namely linear assignment, shortest path and a real world problem of energy systems. Our empirical examination also unveils worrisome consequences of these attacks on differentiable perturbed optimizers thereby highlighting the criticality of our findings.
+
+<img src="media/Figure-Optimizers-and-Confounders.png" alt="Overview-iVGAE-on-ASIA.png" style="zoom:35%;" />
