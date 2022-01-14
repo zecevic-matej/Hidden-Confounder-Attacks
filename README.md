@@ -1,4 +1,6 @@
-### Intriguing Parameters of Structural Causal Models
+### Hidden Confounder Attacks
+
+##### Adversarial Attacks Are Not a Privilege of Deep Learning
 
 [Matej Zečević](https://ml-research.github.io/people/mzecevic/), [Devendra Singh Dhami](https://ml-research.github.io/people/ddhami/), [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html).
 
