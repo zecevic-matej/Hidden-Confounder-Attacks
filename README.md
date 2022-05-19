@@ -1,5 +1,3 @@
-### Hidden Confounder Attacks
-
-##### Adversarial Attacks Are Not a Privilege of Deep Learning
+##### Adversarial-style Examples for Linear Programs through HCA
 
 Reproducable code examples.
