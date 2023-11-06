@@ -1,3 +1,8 @@
+# Paper published at ACML 2023 Journal Track
+# Link to Conference: https://www.acml-conf.org/2023/papers.html
+# corresponding author: Matej Zecevic, matej.zecevic@tu-darmstadt.de
+#
+# based off Jonas H. and Florian S.
 # file  -- Module.py --
 
 def getSettings():

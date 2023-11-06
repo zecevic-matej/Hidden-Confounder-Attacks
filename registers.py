@@ -1,3 +1,6 @@
+# Paper published at ACML 2023 Journal Track
+# Link to Conference: https://www.acml-conf.org/2023/papers.html
+# corresponding author: Matej Zecevic, matej.zecevic@tu-darmstadt.de
 class Register:
     def __init__(self):
         self.store = {}

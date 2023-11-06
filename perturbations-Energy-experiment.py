@@ -1,3 +1,8 @@
+# Paper published at ACML 2023 Journal Track
+# Link to Conference: https://www.acml-conf.org/2023/papers.html
+# corresponding author: Matej Zecevic, matej.zecevic@tu-darmstadt.de
+#
+# Reproducing the Energy example from the paper
 import torch
 import perturbations
 import numpy as np
